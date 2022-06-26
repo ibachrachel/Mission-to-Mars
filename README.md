@@ -47,6 +47,6 @@ Code will retrieve full-resolution images and titles for each Hemisphere.
         <p><a class="btn btn-info btn-lg" href="/scrape" role="button"><strong>Scrape New Data</strong></a>
 }
         
-
+Adding Color, a new font, and bolding the button text. 
 
 
